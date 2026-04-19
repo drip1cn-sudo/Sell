@@ -1,10 +1,10 @@
 import telebot
 from telebot import types
 
-# এখানে আপনার বটের টোকেন বসান
-TOKEN = 'আপনার_বট_টোকেন'
-# আপনার গ্রুপ ইউজারনেম (বটকে অবশ্যই এডমিন করতে হবে)
-GROUP_ID = '@wf_rahim_69_ff'
+# আপনার বটের টোকেন
+TOKEN = '8716769137:AAGpJcCbpF0FBa1VtU4kXk_EQKkb98sg3oA'
+# আপনার গ্রুপ ইউজারনেম 
+GROUP_ID = '@rahim_ff_Panel'
 
 bot = telebot.TeleBot(TOKEN)
 
